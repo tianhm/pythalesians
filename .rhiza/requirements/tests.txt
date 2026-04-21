@@ -1,6 +1,6 @@
 # Test dependencies for rhiza
 pytest>=8.0
-python-dotenv>=1.0
+python-dotenv>=1.2.2
 pytest-cov>=6.0
 pytest-html>=4.0
 pytest-mock>=3.0
